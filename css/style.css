@@ -163,6 +163,9 @@
     .menu-contactos {
         color: #BF3B5E;
     }
+    .nav-item .nav-link {
+        font-size: 31px;
+    }
     
     .p-servicio {
         text-align: center;
@@ -231,6 +234,7 @@
         text-transform: uppercase;
         font-weight: 900;
         color: #BF3B5E !important;
+        font-size: 37px !important;
     }
     
     .titulo-footer {
@@ -244,6 +248,9 @@
 
     .mapa-de-contacto iframe{
         width: 500px;
+    }
+    .nav-item .nav-link {
+        font-size: 15px;
     }
     .p-servicio {
         font-size: 20px;
@@ -265,8 +272,12 @@
     .secundario {
         font-size: 50px;
     }
+    .titulo {
+        font-size: 23px !important;
+    }
     .titulo-footer {
         font-size: 25px;
     }
+    
 }
 
