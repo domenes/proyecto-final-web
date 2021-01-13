@@ -164,7 +164,7 @@
         color: #BF3B5E;
     }
     .nav-item .nav-link {
-        font-size: 31px;
+        font-size: 40px;
     }
     
     .p-servicio {
@@ -214,7 +214,7 @@
     
     .servicio {
         color: #A63429 !important;
-        font-size: 31px !important;
+        font-size: 40px !important;
     }
     
     .servicio:hover {
