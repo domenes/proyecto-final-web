@@ -85,6 +85,7 @@
         border: 1px solid #BF3B5E;
     }
     
+    
     .img-1 {
         background-image: url('../imagen/permanente.jpg');
         background-repeat: no-repeat;
@@ -182,7 +183,10 @@
         padding-bottom: 30px;
     }
     
-    
+    .parrafo-menu{
+        font-size: 40px;
+        margin-bottom: 0;
+    }
     .principal {
         padding-top: 90px;
         color: #BF3B5E;
@@ -247,7 +251,6 @@
 }
 
 @media all and (min-width: 992px){
-
     .mapa-de-contacto iframe{
         width: 500px;
     }
@@ -265,7 +268,9 @@
         font-size: 20px;
     }
     
-    
+    .parrafo-menu{
+        font-size: 15px;
+    }
     .principal {
         font-size: 50px;
     }
