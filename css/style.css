@@ -168,11 +168,11 @@
         text-align: center;
         color: #A63429;
         font-weight: 300;
-        font-size: 20px;
+        font-size: 30px;
     }
     
     .parrafo {
-        font-size: 20px;
+        font-size:30px;
         color: #A63429;
         font-weight: 300;
         padding-bottom: 30px;
@@ -182,7 +182,7 @@
     .principal {
         padding-top: 90px;
         color: #BF3B5E;
-        font-size: 50px;
+        font-size: 60px;
         font-weight: 900;
     }
     
@@ -198,12 +198,12 @@
     .precio {
      font-weight: 700;
      color: #BF3B5E;
-     font-size: 28px;
+     font-size: 38px;
     }
     
     .secundario {
         color: #BF3B5E;
-        font-size: 50px;
+        font-size: 60px;
         font-weight: 700;
         padding-bottom: 50px;
         padding-top: 50px;
@@ -236,7 +236,7 @@
     .titulo-footer {
         padding-top: 50px;
         color: #BF3B5E;
-        font-size: 25px;
+        font-size: 35px;
     }
 }
 
@@ -244,6 +244,29 @@
 
     .mapa-de-contacto iframe{
         width: 500px;
+    }
+    .p-servicio {
+        font-size: 20px;
+    }
+    
+    .parrafo {
+        font-size: 20px;
+    }
+    
+    
+    .principal {
+        font-size: 50px;
+    }
+ 
+    .precio {
+     font-size: 28px;
+    }
+    
+    .secundario {
+        font-size: 50px;
+    }
+    .titulo-footer {
+        font-size: 25px;
     }
 }
 
