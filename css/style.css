@@ -214,6 +214,7 @@
     
     .servicio {
         color: #A63429 !important;
+        font-size: 31px !important;
     }
     
     .servicio:hover {
@@ -271,6 +272,9 @@
     
     .secundario {
         font-size: 50px;
+    }
+    .servicio {
+        font-size: 15px !important;
     }
     .titulo {
         font-size: 23px !important;
